@@ -1,5 +1,7 @@
 package de.mathisneunzig.betriebssystemevl.process;
 
+import de.mathisneunzig.betriebssystemevl.process.scheduler.Scheduler;
+
 @SuppressWarnings("unused")
 public class ProcessManager {
 	
